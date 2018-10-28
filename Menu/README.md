@@ -1,1 +1,1 @@
-# godot_ez_menu
+# Godot menu
